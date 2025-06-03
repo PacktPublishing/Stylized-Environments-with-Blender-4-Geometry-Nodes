@@ -1,5 +1,6 @@
 # Stylized-Environments-with-Blender-4-Geometry-Nodes
-This is the code repository for Stylized Environments with Blender 4 Geometry Nodes, published by Packt. It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for Stylized Environments with Blender 4 Geometry Nodes, published by Packt.
 
-
-To properly download code files from a Git LFS-updated repository without corrupting the files, please follow these straightforward steps: Download and install the GitHub Desktop app from this link: https://desktop.github.com/?ref_cta=download+desktop&ref_loc=installing+github+desktop&ref_page=docs. Open the application and sign in with your GitHub credentials. In the GitHub Desktop app, navigate to "File" -> "Clone Repository." In the dialog that appears, paste the URL of the repository you wish to clone into the "URL" field. Below, choose a location on your local drive where you'd like to store the repository files and click "Clone." After cloning completes, a confirmation message will appear. Click "Show in Explorer" (or "Show in Finder" for Mac) to open the folder containing the cloned repository on your computer. Inside this local repository folder, you should find the code files. If the files are compressed (zipped), you may use a tool like 7Zip (downloadable from https://www.7-zip.org/) to extract them. This method ensures you get an exact copy of the repository, including all files handled by Git LFS, ready for use on your system.
+**Access Your Full Course Resources and Materials!**
+To get the most out of your learning experience, visit the link below to access all course resources, downloadable materials, and bonus content: https://packt.link/F055b
+Everything you need to follow along, practice, and deepen your understanding is just one click away!
